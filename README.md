@@ -1,2 +1,3 @@
 # Predicting-credit-card-approval
-This repository is part of datacamp project using UCI Machine Learning Dataset.
+![](credit_card.jpg)
+This repository is part of datacamp project using Scikit-Learn.
